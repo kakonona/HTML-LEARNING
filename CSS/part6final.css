@@ -1,0 +1,98 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: roboto;
+}
+.body{
+    margin: 0;
+}
+
+.yt-logo{
+    width: 90px;
+    height: 20px;
+    object-fit: contain;
+    object-position: center;
+    vertical-align: middle;
+    
+}
+
+.search{
+    padding: 10px 16px;
+    margin-left: 10px;
+    vertical-align: middle;
+    
+    
+}
+
+
+
+.nav{
+    margin-bottom: 10px;
+    height: 57px;
+    vertical-align: middle;
+    line-height: 24px;
+    
+}
+
+.channel-thumb{
+    width: 300px;
+}
+.channel-info{
+    width: 100%;
+}
+
+.vid-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    padding: 5px;
+
+}
+
+.thumbnail{
+    width: 100%;
+    display: block;        
+    
+}
+
+.creator-info{
+    width: 15%;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: none;
+}
+.profile-info{
+    width: 36px;
+    display: inline-block;
+    margin-top: 12px;
+    margin-right: 0;
+}
+
+.vid-info{
+    display: inline-block;
+    width: 83%;
+    height: 100px;
+    margin-left: none;
+    
+}
+
+.vid-title{
+    font-size: 14px;
+    font-weight: 800;
+    width: 100%;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    line-height: 20px;
+    
+}
+
+.creator-pp,          
+.view-info{
+    font-size: 12px;
+    font-weight: 400s;
+    text-align: left;
+    color: #606060;
+    
+}
