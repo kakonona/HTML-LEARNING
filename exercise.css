@@ -1,0 +1,397 @@
+p{
+    font-family: roboto;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+.singa1{
+    height: 300px;
+    width: 300px;
+    object-fit: contain;
+    object-position: centers;
+    border: solid;
+    border-color: red;
+}
+
+.tujud{
+    font-size: 20px;
+    padding: 10px 16px;
+    color: gray;
+    border-radius: 10px;
+    border-color: rgb(165, 164, 164);
+    margin-bottom: 50px;
+}
+
+.tujue{
+    font-size: 20px;
+    padding: 10px 16px;
+    color: gray;
+    border-radius: 45px;
+    border-color: rgb(165, 164, 164);
+    margin-bottom: 50px;
+}
+
+.tujuef1{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.tujuef2{
+    border-radius: 5px;
+    padding: 10px 16px;
+    width: 300px;
+}
+.tujuef3{
+    font-size: 15px;
+    width: 400px;
+
+}
+.tujuef4{
+    color: white;
+    text-align: center;
+    width: 350px;
+    padding: 10px 16px;
+    background-color: blue;
+    border: none;
+    border-radius: 45px;
+    margin-right: 1000px;
+}
+
+.tujug1{
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100%;
+    border: none;
+    margin-right: 10px;
+
+}
+
+.tujug2{
+    vertical-align: middle;
+    border: none;
+    color: gray;
+    font-family: roboto;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.tujug3{
+    background-color: blue;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 45px;
+    vertical-align: middle;
+}
+
+.lapana1,
+.lapan2{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.lapanb1{
+    font-size: 18px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.button-yesno{
+    display: inline-block;
+}
+
+.lapanc1{
+    display: inline-block;
+    object-position: center;
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.lapanc2{
+    font-size: 14px;
+    font-weight: 400;
+    padding: 12px;
+    border-radius: 45px;
+    width: 400px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 10px 2px;
+    margin-bottom: 10px;
+    
+    
+}
+
+.divd{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.lapand1{
+    padding: 10px 16px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-right: 2px;
+}
+.lapand2{
+    padding: 10px 16px;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 1px;
+    display: inline-block;
+}
+.lapand3{
+    padding: 10px 16px;
+    width: 100px;
+    border-radius: 5px;
+    display: block;
+    width: 240px;
+    border-width: 1px;
+    margin-top: 10px;
+}
+
+.lapand4{
+    background-color: blue;
+    color: white;
+    font-family: roboto;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px 114px;
+    border: none;
+    border-radius: 5px;
+    transition: opacity 0.15s;
+}
+.lapand4:hover{
+    opacity: 0.8;
+}
+.lapand4:active{
+    opacity: 0.5;
+}
+
+.lapane1{
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 800;
+}
+
+.lapane2,
+.lapane3{
+    background-color: rgb(192, 192, 192);
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-family: roboto;
+    width: 220px;
+    margin-bottom: 5px;
+    border: none;
+
+}
+
+.lapane4{
+    background-color: black;
+    font-family: roboto;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    margin-right: 3px;
+    transform: opacity 0.15s;
+}
+.lapane4:hover{
+    opacity: 0.8;
+
+}
+.lapane4:active{
+    opacity: 0.5;
+}
+
+.lapane5{
+    background-color: rgb(171, 170, 170);
+    font-family: roboto;
+    font-weight: 400;
+    padding: 10px 16px;
+    border: none;
+}
+.lapane5:hover{
+    opacity: 0.8;
+
+}
+.lapane5:active{
+    opacity: 0.5;
+}
+
+.red{
+    background-color: rgb(247, 0, 0);
+    width: 10px;
+    height: 10px;
+}
+.green{
+    background-color: green;
+    width: 10px;
+    height: 10px;
+}
+
+.bilan1{
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 300px;
+    padding: 10px 10px;
+}
+
+.bilan2{
+    font-size: 18px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 0;
+    
+}
+
+.bilan3{
+    margin-right: 5px;
+    
+}
+
+.bilan4{
+    width: 300px;
+    background-color: gray;
+    color: white;
+    padding: 10px 10px;
+}
+.bilan5{
+    font-size: 20px;
+    font-weight: 800;
+}
+.bilan6{
+    font-weight: 400;
+}
+.tujug{
+    border: solid;
+    margin: 10px;
+    border-width: 0.1px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 0px 5px 1px;
+    display: inline-block;
+    padding: 10px 10px;
+
+}
+
+.display{
+    border: none;
+    border-width: 1px;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 10px 2px;
+    width: 150px;
+    display: inline-block;
+    height: auto;
+    margin-top: 50px;
+    padding: 10px 10px;
+    margin-right: 10px;
+}
+.pp{
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    object-position: center;
+    margin-bottom: 5px;
+
+}
+
+.nama-pp{
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0px;
+    
+}
+.mutual-pp{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.butt-pp{
+    background-color: blue;
+    color: white;
+    font-size: 14px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 2px;
+    margin-top: 0;
+    margin-bottom: 5;
+}
+
+.lapanc{
+    text-align: center;
+}
+
+.lapanc3{
+    font-weight: 400;
+    padding: 10px 16px;
+    background-color: rgb(213, 213, 213);
+    border: none;
+    margin: 20px 4px;
+}
+
+
+
+
+
+
+.lesson10{
+    vertical-align: middle;
+    display: inline-block;
+    width: 600px;
+}
+
+.lesson10-pp{
+    display: inline-block;
+    width: 15%;
+    vertical-align: middle;
+}
+.lesson10-content{
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+    vertical-align: middle;
+    border-radius: 50px;
+
+}
+
+.lesson10-info{
+    width: 45%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.lesson10-name{
+    font-size: 20px;
+    font-weight: 800;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+.lesson10-cat{
+    font-size: 16px;
+    font-weight: 400;
+    color: #606060;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+.lesson10-button{
+    width: 30%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.lesson10-follow{
+    background-color: blue;
+    color: white;
+    font-weight: 800;
+    padding: 10px 16px;
+    vertical-align: middle;
+    border: none;
+    border-radius: 5px;
+}
