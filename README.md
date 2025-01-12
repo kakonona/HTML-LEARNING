@@ -1,1 +1,1 @@
-Hello everyone, if you are reading this, it means you are about to see my journey of learning HTML and CSS. Or maybe you've already seen my files? Hahaha. Basically, I'm still learning and will continue to learn. I really enjoy learning new things, especially in the field of HTML and CSS. So, I would greatly appreciate it if you could give me some encouragement or support and tips about HTML and other topics.
+masih belajar atuh kang
